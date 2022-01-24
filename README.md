@@ -43,7 +43,7 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 Alternatively you can use the Docker image.Explain the steps below
 
-####Building The Image
+#### Building The Image
 ```
 mvn clean install
 ```
