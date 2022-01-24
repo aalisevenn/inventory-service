@@ -66,7 +66,7 @@ While our container is running, we can get inside the running container for diff
 
 
 Ali Seven- [@aliseven](https://getir.com/) - aalisevenn@gmail.com
-Project Link: [https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template](https://github.com/aalisevenn/inventory-service)
+Project Link: [https://github.com/aalisevenn/inventory-service](https://github.com/aalisevenn/inventory-service)
 
 ## Copyright
 
